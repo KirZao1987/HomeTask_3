@@ -1,0 +1,15 @@
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/bin/Debug/net6.0/HomeTask_23
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/bin/Debug/net6.0/HomeTask_23.deps.json
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/bin/Debug/net6.0/HomeTask_23.runtimeconfig.json
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/bin/Debug/net6.0/HomeTask_23.dll
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/bin/Debug/net6.0/HomeTask_23.pdb
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/obj/Debug/net6.0/HomeTask_23.csproj.AssemblyReference.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/obj/Debug/net6.0/HomeTask_23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/obj/Debug/net6.0/HomeTask_23.AssemblyInfoInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/obj/Debug/net6.0/HomeTask_23.AssemblyInfo.cs
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/obj/Debug/net6.0/HomeTask_23.csproj.CoreCompileInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/obj/Debug/net6.0/HomeTask_23.dll
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/obj/Debug/net6.0/refint/HomeTask_23.dll
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/obj/Debug/net6.0/HomeTask_23.pdb
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/obj/Debug/net6.0/HomeTask_23.genruntimeconfig.cache
+/Users/kirillzaostrovskikh/Desktop/Seminar 3/HomeTask_23/obj/Debug/net6.0/ref/HomeTask_23.dll
